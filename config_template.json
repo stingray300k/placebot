@@ -3,5 +3,5 @@
         {"username": "Hello", "password":  "World"},
         {"username": "Hello2", "password":  "World"}
     ],
-    "target_configuration_url": "https://example.com/place.cfg"
+    "target_configuration_url": "https://raw.githubusercontent.com/stingray300k/placebot/vim/out.cfg"
 }
